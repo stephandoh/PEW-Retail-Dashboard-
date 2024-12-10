@@ -37,5 +37,5 @@ The dataset includes:
 3. Develop a customer loyalty program to retain top customers like Eduardo and analyze patterns to attract similar high-value customers.
 4. Capitalize on the U.S.’s strong order volume (21,344 orders) with targeted campaigns while devising strategies to boost engagement in underperforming regions like France (5,558 orders).
 
-
+medium blog: https://medium.com/@stephaniedawsonnandoh/pew-retail-dashboard-8e4b93a48053
 
