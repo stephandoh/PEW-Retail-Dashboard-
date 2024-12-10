@@ -1,5 +1,9 @@
 # PEW-Retail-Dashboard-
-A Business Intelligence (BI) project built using Power BI to analyze PEW Retail Inc.'s global sales, tax, and customer data. This project demonstrates the use of data modeling, visualization, and insights to inform business decisions
+A Business Intelligence (BI) project built using Power BI to analyze PEW Retail Inc.'s global sales, tax, and customer data. This project demonstrates the use of data modeling, visualization, and insights to inform business decisions. These are the specific questions that needed to be answered.
+1.	How much tax do they pay based on the various regions they do business in?
+2.	What is the number of orders received by various product categories
+3.	Who are the top 5 customers in consuming their products
+4.	How many orders are received by various regions to various categories and products?
 
 <img width="702" alt="Screenshot 2024-12-10 165804" src="https://github.com/user-attachments/assets/2961afb3-7807-46ca-a49a-fd49aaab1986">
 
